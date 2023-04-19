@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="811" height="488" viewBox="0 0 811 488">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 16px;
+        fill: #818181;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        font-family: Consolas;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #218311;
+        stroke-width: 1.22px;
+      }
+
+      .cls-2, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        font-size: 15.6px;
+        fill: #da5555;
+      }
+
+      .cls-4, .cls-5 {
+        font-size: 12px;
+      }
+
+      .cls-4 {
+        fill: #329e2e;
+      }
+
+      .cls-5 {
+        fill: #23bdcf;
+      }
+
+      .cls-6, .cls-7 {
+        stroke: #23bdcf;
+        stroke-width: 1.2px;
+      }
+    </style>
+  </defs>
+  <text id="Starting_database_connection..._Starting_server_fetcher_service" data-name="Starting database connection... Starting server fetcher service" class="cls-1" x="9.279" y="10.223">Starting database connection...<tspan x="9.279" dy="19.2">Starting server fetcher service...</tspan><tspan x="9.279" dy="19.2">Starting serzver pinger service...</tspan><tspan x="9.279" dy="19.2">Starting the process to ping &apos;10&apos; servers...</tspan><tspan x="9.279" dy="19.2">Iterating to ping a new server...</tspan><tspan x="9.279" dy="19.2">Initializing a new MySQL Connection...</tspan><tspan x="9.279" dy="19.2">Connecting to root@0.0.0.0...</tspan><tspan x="9.279" dy="19.2">Next server will be: mc.libertycraft.ru</tspan></text>
+  <text id="The_mc.libertycraft.ru_minecraft_server_has_a_ping_of_162ms_" data-name="The &apos;mc.libertycraft.ru&apos; minecraft server has a ping of &apos;162ms&apos;" class="cls-1" x="11" y="270.5">The &apos;mc.libertycraft.ru&apos; minecraft server has a ping of &apos;162ms&apos;<tspan x="11" dy="19.2">Publishing results to database...</tspan></text>
+  <text id="Iterating_to_ping_a_new_server..._Next_server_will_be:_mc.sharp" data-name="Iterating to ping a new server... Next server will be: mc.sharp" class="cls-1" x="10.336" y="315.066">Iterating to ping a new server...<tspan x="10.336" dy="19.2">Next server will be: mc.sharpcraft.xyz</tspan><tspan x="10.336" dy="19.2">The &apos;mc.sharpcraft.xyz&apos; minecraft server has a ping of &apos;113ms&apos;</tspan><tspan x="10.336" dy="19.2">Publishing results to database...</tspan><tspan x="10.336" dy="19.2">Iterating to ping a new server...</tspan><tspan x="10.336" dy="19.2">Next server will be: freedommc.hopto.org</tspan><tspan x="10.336" dy="19.2">The &apos;freedommc.hopto.org&apos; minecraft server is offline.</tspan><tspan x="10.336" dy="19.2">Publishing results to database...</tspan><tspan x="10.336" dy="19.2">Iterating to ping a new server...</tspan><tspan x="10.336" dy="19.2">...</tspan></text>
+  <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-2" d="M15,154H796a10,10,0,0,1,10,10v76.36a10,10,0,0,1-10,10H15a10,10,0,0,1-10-10V164A10,10,0,0,1,15,154Z"/>
+  <text id="WARNING:_An_illegal_reflective_access_operation_has_occurred_WA" data-name="WARNING: An illegal reflective access operation has occurred WA" class="cls-3" x="12" y="170">WARNING: An illegal reflective access operation has occurred<tspan x="12" dy="18.72">WARNING: Illegal reflective access by org.xbill.DNS.ResolverConfig </tspan><tspan x="12" dy="18.72">WARNING: Please consider reporting this to the maintainers of org.xbill.DNS.ResolverConfig</tspan><tspan x="12" dy="18.72">WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access</tspan><tspan x="12" dy="18.72">WARNING: All illegal access operations will be denied in a future release</tspan></text>
+  <text id="minecraft-server-pinger_illegal_reflection_access_warning" data-name="minecraft-server-pinger illegal reflection access warning" class="cls-4" x="419" y="148.5">minecraft-server-pinger illegal reflection access warning</text>
+  <text id="Pinging_to_a_server..." data-name="Pinging to a server..." class="cls-5" x="660" y="123.5">Pinging to a server...</text>
+  <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-6" y="128" width="811" height="170" rx="10" ry="10"/>
+  <path id="Rounded_Rectangle_2_copy" data-name="Rounded Rectangle 2 copy" class="cls-7" d="M10,319.6H801a10,10,0,0,1,10,10V368a10,10,0,0,1-10,10H10A10,10,0,0,1,0,368V329.6A10,10,0,0,1,10,319.6Z"/>
+  <text id="Pinging_to_a_server...-2" data-name="Pinging to a server..." class="cls-5" x="660" y="315.5">Pinging to a server...</text>
+  <path id="Rounded_Rectangle_2_copy-2" data-name="Rounded Rectangle 2 copy" class="cls-7" d="M10,396.6H801a10,10,0,0,1,10,10V445a10,10,0,0,1-10,10H10A10,10,0,0,1,0,445V406.6A10,10,0,0,1,10,396.6Z"/>
+  <text id="Pinging_to_a_server...-3" data-name="Pinging to a server..." class="cls-5" x="660" y="392.5">Pinging to a server...</text>
+</svg>

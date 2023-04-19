@@ -1,0 +1,67 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.article-rows {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.vender-rows {
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.factura-rows {
+  grid-template-columns: 4.5fr 1fr 1fr 1fr;
+}
+
+.gasto-rows {
+  grid-template-columns: 4.5fr 1fr 1fr 1fr 1fr;
+}
+
+@media (min-width: 768px) {
+  .article-rows {
+    grid-template-columns: 4.5fr 1fr 1fr 1fr 1fr;
+  }
+
+  .vender-rows {
+    grid-template-columns: 4.5fr 1fr 1fr 1fr 1fr 1fr;
+  }
+}
+
+*:focus {
+  outline: none;
+}
+
+.input {
+  @apply w-full px-2 py-1 text-lg bg-white focus:outline-none border-2 border-gray-300 focus:border-gray-700 rounded-lg disabled:opacity-40;
+}
+
+.checkbox:checked {
+  background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='white' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M5.707 7.293a1 1 0 0 0-1.414 1.414l2 2a1 1 0 0 0 1.414 0l4-4a1 1 0 0 0-1.414-1.414L7 8.586 5.707 7.293z'/%3e%3c/svg%3e");
+  border-color: transparent;
+  background-color: currentColor;
+  background-size: 100% 100%;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+
+.checkbox {
+  @apply appearance-none h-6 w-6 border-2 border-gray-300 rounded-md checked:bg-green-alt-800 checked:border-transparent focus:outline-none;
+}
+
+@media print {
+  html,
+  body {
+    height: 100vh;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden;
+  }
+}
+
+@media print {
+  @page {
+    size: auto; /* auto is the initial value */
+    margin: 0; /* this affects the margin in the printer settings */
+  }
+}
